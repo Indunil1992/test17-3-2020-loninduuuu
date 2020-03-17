@@ -1,0 +1,88 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "cb1209c5-a1ac-4ad7-8349-4fb43190c01e": {
+        "id": "cb1209c5-a1ac-4ad7-8349-4fb43190c01e",
+        "parent": null,
+        "name": "test17-3-2020-loninduuuu.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "test17-3-2020-loninduuuu.js",
+        "cursor": {
+          "lineNumber": 2,
+          "column": 5
+        },
+        "config": {
+          "runtime": "nodejs8",
+          "timeout": 60,
+          "memory": 128,
+          "triggerType": 0
+        },
+        "triggers": [
+          {
+            "resourceName": "http-trigger",
+            "config": {}
+          }
+        ]
+      },
+      "626c61b2-e7d4-461d-9e2f-cc9b4423bb7f": {
+        "id": "626c61b2-e7d4-461d-9e2f-cc9b4423bb7f",
+        "parent": null,
+        "name": "index.js",
+        "type": "JS_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": false,
+        "filePath": "index.js"
+      },
+      "711dc3a1-4b32-4d63-b5b0-01d56792a75b": {
+        "id": "711dc3a1-4b32-4d63-b5b0-01d56792a75b",
+        "parent": null,
+        "name": "main.py",
+        "type": "PYTHON_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": false,
+        "filePath": "main.py"
+      }
+    },
+    "openFiles": [
+      "cb1209c5-a1ac-4ad7-8349-4fb43190c01e"
+    ],
+    "currentFileId": "cb1209c5-a1ac-4ad7-8349-4fb43190c01e",
+    "resources": {
+      "http-trigger": {
+        "name": "http-trigger",
+        "type": "http-trigger",
+        "config": {}
+      }
+    },
+    "customTemplate": {
+      "dialect": null,
+      "definitions": null
+    },
+    "envVariables": [],
+    "packageJSON": {
+      "dependencies": {}
+    }
+  },
+  "PROJECT_META": {
+    "projectName": "test17-3-2020-loninduuuu",
+    "projectDescription": "",
+    "projectVersion": "1.0.0",
+    "projectRegion": "europe-west2",
+    "platform": "GCP",
+    "language": "nodejs",
+    "platformRegions": {},
+    "lastSave": 1584425474668
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "test17-3-2020-loninduuuu",
+      "url": "https://github.com/Indunil1992/test17-3-2020-loninduuuu"
+    }
+  }
+}
